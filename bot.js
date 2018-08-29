@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`‏الحُب اللي يوصل للبكاء عُمره ماكان كذب..`,"http://twitch.tv/S-F")
+client.user.setGame(`Rv.`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
